@@ -21,8 +21,7 @@ function gettingJSON(){
     console.log("Query is :" + query);
 
     //Create and set variables for each of the elements you
-    //need to update, location, highs and lows, 
-    //the image, etc.
+    //need to update, location, temp, the image, etc.
 
     let loc;
     let temp;
